@@ -8,5 +8,3 @@ for i in n:
 for i in range(10):
     if count[i] > 0:
         print(i, count[i])
-
-
